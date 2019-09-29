@@ -1,0 +1,1 @@
+# Changing the FOEX Application Settings
